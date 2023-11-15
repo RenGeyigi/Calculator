@@ -1,0 +1,17 @@
+C:\Users\erens\source\repos\Ders\Ders\bin\Debug\net6.0-windows\Ders.exe
+C:\Users\erens\source\repos\Ders\Ders\bin\Debug\net6.0-windows\Ders.deps.json
+C:\Users\erens\source\repos\Ders\Ders\bin\Debug\net6.0-windows\Ders.runtimeconfig.json
+C:\Users\erens\source\repos\Ders\Ders\bin\Debug\net6.0-windows\Ders.dll
+C:\Users\erens\source\repos\Ders\Ders\bin\Debug\net6.0-windows\Ders.pdb
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.Form1.resources
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.Properties.Resources.resources
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.csproj.GenerateResource.cache
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.AssemblyInfoInputs.cache
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.AssemblyInfo.cs
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.csproj.CoreCompileInputs.cache
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.dll
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\refint\Ders.dll
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.pdb
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.genruntimeconfig.cache
+C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\ref\Ders.dll
