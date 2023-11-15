@@ -15,3 +15,20 @@ C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\refint\Ders.dll
 C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.pdb
 C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\Ders.genruntimeconfig.cache
 C:\Users\erens\source\repos\Ders\Ders\obj\Debug\net6.0-windows\ref\Ders.dll
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\bin\Debug\net6.0-windows\Ders.exe
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\bin\Debug\net6.0-windows\Ders.deps.json
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\bin\Debug\net6.0-windows\Ders.runtimeconfig.json
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\bin\Debug\net6.0-windows\Ders.dll
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\bin\Debug\net6.0-windows\Ders.pdb
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.Form1.resources
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.Properties.Resources.resources
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.csproj.GenerateResource.cache
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.AssemblyInfoInputs.cache
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.AssemblyInfo.cs
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.csproj.CoreCompileInputs.cache
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.dll
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\refint\Ders.dll
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.pdb
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\Ders.genruntimeconfig.cache
+C:\C# forms projects\c# hesap makinesi\Calculator\Ders\Ders\obj\Debug\net6.0-windows\ref\Ders.dll

@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\erens\\.nuget\\packages\\": {}
+    "C:\\Users\\malch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erens\\source\\repos\\Ders\\Ders\\Ders.csproj",
+      "projectUniqueName": "C:\\C# forms projects\\c# hesap makinesi\\Calculator\\Ders\\Ders\\Ders.csproj",
       "projectName": "Ders",
-      "projectPath": "C:\\Users\\erens\\source\\repos\\Ders\\Ders\\Ders.csproj",
-      "packagesPath": "C:\\Users\\erens\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erens\\source\\repos\\Ders\\Ders\\obj\\",
+      "projectPath": "C:\\C# forms projects\\c# hesap makinesi\\Calculator\\Ders\\Ders\\Ders.csproj",
+      "packagesPath": "C:\\Users\\malch\\.nuget\\packages\\",
+      "outputPath": "C:\\C# forms projects\\c# hesap makinesi\\Calculator\\Ders\\Ders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\erens\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\malch\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
